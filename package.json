@@ -1,0 +1,17 @@
+{
+  "name": "nodefs_httpcode",
+  "version": "1.0.0",
+  "description": "Return an HTTP status code",
+  "type": "module",
+  "main": "src/nodefs_httpcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosOT2/nodefs_httpcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -11,7 +11,18 @@
     "type": "git",
     "url": "git+https://github.com/CarlosOT2/nodefs_httpcode.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "node",
+    "fs",
+    "nodefs",
+    "http",
+    "code",
+    "error"
+  ],
+  "author": "CarlosOT2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlosOT2/nodefs_httpcode/issues"
+  },
+  "homepage": "https://github.com/CarlosOT2/nodefs_httpcode#readme"
 }
